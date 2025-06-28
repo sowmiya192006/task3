@@ -1,5 +1,5 @@
 NAME:SOWMIYA R
-EMAIL:sowmiyasowmiya@95710@gmail.com
+EMAIL:sowmiyasowmiya95710@gmail.com
 INTERNSHIP DOMAIN:PYTHON PROGRAMMING
 
 
